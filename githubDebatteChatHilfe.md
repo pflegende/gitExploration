@@ -26,6 +26,11 @@ _muss man erst einschalten_
 
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/enabling-or-disabling-github-discussions-for-a-repository
 
+womöglich nur in privaten Repos:
+https://github.blog/2021-03-09-github-discussions-now-available-for-private-repositories/
+
+bislang nicht getestet `#2do`
+
 ---
 
 [GitHub Debatte bzw. chat - hä: Microsoft goes WhatsApp again!](https://jaxenter.com/github-new-chat-platform-139343.html)
