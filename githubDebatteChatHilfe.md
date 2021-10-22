@@ -12,6 +12,20 @@ _geht gar nicht!_
 Im Menü ist der Punkt Team bei uns nicht enthalten.
 Gibt es einen anderen Weg eine Debatte zu eröffenen?
 
+ggf:
+
+_muss man erst einschalten_
+
+- im Repository(!); 
+- unter Settings; 
+- ~~dort unter Features; ~~
+- dort Discussion
+- Achtung: nach dem Anhaken und Grünem Button wird sofort die Diskussionseditor - Seite aufgerufen
+( eine Markierung als private Debatte soll möglich sein. Es ist jedoch bei docs.github nicht beschreiben _WIE_
+ Also bislang noch auf ***AUS*** bei uns hier.
+
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/enabling-or-disabling-github-discussions-for-a-repository
+
 ---
 
 [GitHub Debatte bzw. chat - hä: Microsoft goes WhatsApp again!](https://jaxenter.com/github-new-chat-platform-139343.html)
