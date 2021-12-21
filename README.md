@@ -7,6 +7,7 @@ to be more clear on this topic:
 * gitlab
 * others (bitbucket, notABug, tekNik etc.)
 * topic around (to specify later)
+* #2do - List go [issues](https://github.com/pflegende/gitExploration/issues/1#issue-1085923922)
 
 
 also here we go by the epic content with a wiki  
