@@ -19,6 +19,9 @@ GitHub renderd die TildeTilde ~~ zwar im Editoransicht von `*.md` Dateien aber n
 Na Klasse!
 :(
 
+seems md for ~~deleted~~ is solved [10.12.2022, 19:37:25]:
+~~delted~~ vs. undeleted 
+
 ---
 EOF
 ---
