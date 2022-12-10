@@ -1,4 +1,7 @@
 # j.md
+
+for **TOC** click (in gh only) on hamburger on top left hand side
+
 ---
 ## Vorspruch - aka Prolog im Himmel -
 Das ist das zentrale Journalfile für das SG Repo zur GitHub Erforschung.
