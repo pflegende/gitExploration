@@ -7,6 +7,11 @@ Das ist das zentrale Journalfile für das SG Repo zur GitHub Erforschung.
 ... und zu Github; Git und drumrum 
 gemmerkt werden soll.
 
+### 2. note
+
+joining the waitlist
+/w gh announcing new (boolean also?) searchfeatures: https://github.com/pflegende/2konsolidate/issues/11#issue-1488755846
+
 ### 1. Eintrag: Fehler(?) bei der Markdowndarstellung ~~Durchgestrichen~~
 22 Oktober 2021 22🈴
 
